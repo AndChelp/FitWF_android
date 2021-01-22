@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mi_wf_list"
+            android:icon="@drawable/ic_grid"
+            android:title="@string/watchfaces" />
+        <item
+            android:id="@+id/mi_upload_wf"
+            android:icon="@drawable/ic_upload"
+            android:title="@string/upload_watchface" />
+        <item
+            android:id="@+id/mi_liked"
+            android:icon="@drawable/ic_liked"
+            android:title="@string/liked" />
+        <item
+            android:id="@+id/mi_download"
+            android:icon="@drawable/ic_download"
+            android:title="@string/downloaded" />
+        <item
+            android:id="@+id/mi_uploaded"
+            android:icon="@drawable/ic_uploaded"
+            android:title="@string/uploaded" />
+        <item
+            android:id="@+id/mi_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+        <item
+            android:enabled="false"
+            android:title=""/>
+    </group>
+</menu>

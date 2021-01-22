@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FitWF</string>
+
+    <string name="watchfaces">WatchFaces</string>
+    <string name="upload_watchface">Загрузить WatchFace</string>
+    <string name="liked">Понравившиеся</string>
+    <string name="downloaded">Скачанные</string>
+    <string name="uploaded">Загруженные</string>
+    <string name="remove_ad">Убрать рекламу</string>
+    <string name="settings">Настройки</string>
+
+    <string name="login"><u>Войти</u></string>
+
+    <string name="nd_open">Open Drawer</string>
+    <string name="nd_close">Close Drawer</string>
+</resources>
